@@ -60,6 +60,9 @@ h2 {
   background-repeat: no-repeat;
   background-position: left;
 }
+.profession {
+  color: orange;
+}
 #experience-full-stack {
   border-image: linear-gradient(orange, tomato);
   border-image-slice: 1;

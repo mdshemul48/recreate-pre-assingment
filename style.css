@@ -57,3 +57,14 @@ h2 {
 .experience-area {
   padding: 50px 100px;
 }
+#experience-full-stack {
+  border-image: linear-gradient(orange, tomato);
+  border-image-slice: 1;
+}
+#experience-body-dev {
+  border-image: linear-gradient(pink, purple);
+  border-image-slice: 1;
+}
+footer p {
+  text-align: center;
+}
